@@ -1,0 +1,17 @@
+## Licencia y Propiedad Intelectual
+
+Este proyecto es propiedad de **Luca Molducci** y está protegido por la ley de propiedad intelectual. Todo el contenido, incluido el código fuente, la documentación y cualquier material asociado con este repositorio, está sujeto a derechos de autor de acuerdo con la legislación aplicable.
+
+### Derechos Reservados
+
+- Todos los derechos están reservados a Luca Molducci.  
+- Está prohibida la redistribución, modificación o uso comercial del código sin el consentimiento explícito y por escrito del propietario.  
+
+### Uso Personal o Educativo
+
+Se permite el uso personal o educativo del proyecto, siempre y cuando se incluya el debido crédito a Luca Molducci como propietario original del proyecto.  
+
+Para consultas o solicitudes de uso especial, por favor, contacta al propietario a través de su cuenta de GitHub: [StrayCoderX](https://github.com/StrayCoderX).
+
+---
+© 2024/2025 Luca Molducci. Todos los derechos reservados.
